@@ -1,5 +1,4 @@
-Example 1
-<<<<<<< HEAD
+Example 2
 
 dfasd
 adsf
