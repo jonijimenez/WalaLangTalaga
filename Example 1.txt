@@ -1,7 +1,9 @@
 Example 1
+<<<<<<< HEAD
 
 dfasd
 adsf
 asdf
-asdf
-asdfdfad
+yeah 
+ey\\yeah
+yeah
