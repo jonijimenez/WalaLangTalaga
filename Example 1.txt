@@ -1,3 +1,9 @@
 Example 1
-adgasdadsfasdfasdf
-asdfads
+<<<<<<< HEAD
+
+dfasd
+adsf
+asdf
+yeah 
+ey\\yeah
+yeah
